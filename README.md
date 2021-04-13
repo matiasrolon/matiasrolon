@@ -1,8 +1,8 @@
 ## Hi, I'm Matias Rolón
 
 ### 👨 About Me
-- 🔭 I’m currently working on <a  target="_blank" href="https://www.tije.travel/">Tije Travel</a> like React Developer
-- 👨‍🎓 I’m study Information Systems on <a  target="_blank" href="http://www.unlu.edu.ar/">UNLu</a>
+- 🔭 I’m currently working on <a href="https://www.tije.travel/"> Tije Travel </a> like React Developer
+- 👨‍🎓 I’m study Information Systems on <a href="http://www.unlu.edu.ar/"> UNLu </a>
 - 🌱 I’m currently learning Machine Learning with python.
 - 💬 Ask me about tech, chess and movies.
 - 📫 How to reach me: matiasrolon.it@gmail.com
