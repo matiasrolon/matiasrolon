@@ -22,7 +22,7 @@ const mati = {
          java: [MVC, RabbitMQ, Maven]
       },
       databases: [SQLServer, mySQL, MongoDB],
-      tools: [ git , Firebase, Docker]
+      tools: [ git , stack AWS, Docker]
    },
    currentProject: "Regression model to predict number of views on YouTube videos"
 };
