@@ -26,7 +26,7 @@ const matiasrolon = {
          { Docker: true }
       ]
    },
-   currentProject: "Ages prediction in famous people based on their main life characteristics using Support Vector Regression"
+   currentProject: "The Use of Ensemble Methods for Predicting Corporate Bankruptcy"
 };
 ```
 
